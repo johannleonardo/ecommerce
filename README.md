@@ -11,3 +11,5 @@ A **Loja** vai ser um *sucesso*
 1. HTML
 2. CSS
 3. JS
+
+![Lixo](img/lixo.avif)
