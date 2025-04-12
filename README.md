@@ -12,4 +12,4 @@ A **Loja** vai ser um *sucesso*
 2. CSS
 3. JS
 
-![Lixo](img/lixo.avif)
+![Lixo](img/leo.jpg)
